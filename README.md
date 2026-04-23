@@ -7,18 +7,16 @@ O sistema captura a luminosidade, umidade e temperatura do ambiente para garanti
 ## Condições do ambiente:
 
 ### Luminosidade:
-
 Os vinhos devem permanecer na penumbra para não afetar a sua qualidade
 
 > [!NOTE]
-Pré-requisitos
-> 
+> Pré-requisitos
 > - Tinkercad para a simulação
-> - Conhecimento básico de arduino
+> - Conhecimento básico de Arduino
 
 ## Funcionalidades
 
-- Monitoramento da: umidade, temperatura e luminosidade do ambiente
+- Monitoramento da luminosidade do ambiente
 - Aviso visual através de leds do estado em que o ambiente está: ideal, em alerta e problema
 
 ## Estrutura do projeto
@@ -32,19 +30,18 @@ Pré-requisitos
 - 1 buzzer
 - 1 fotoresistor
 - 10 cabos jumper
-- 5 resistores de 310 ohms 
+- 5 resistores de 300 ohms 
 
 ## Software:
 Arduino IDE, Tinkercad
 
 ## Como rodar o projeto no Tinkercad:
 - Copie a estrutura do projeto no simulador
-- Copie o código do respositório dentro do editor de código do Tinkercad
+- Copie o código do repositório dentro do editor de código do Tinkercad
 - Comece a simulação
 
 ## Como rodar o projeto na sua máquina:
-- Clone o projeto na sua máquina:
-- ´git clone ´
+- Clone o projeto na sua máquina:` git clone `
 - Abra o projeto dentro do Arduino IDE
 - Siga a estrutura do projeto do README
 - Faça o upload do código para a sua placa

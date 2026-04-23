@@ -10,23 +10,11 @@ O sistema captura a luminosidade, umidade e temperatura do ambiente para garanti
 
 Os vinhos devem permanecer na penumbra para não afetar a sua qualidade
 
-### Temperatura:
-
-Os vinhos devem ser armazenados em uma temperatura constante de 13ºC
-
-### Umidade:
-
-O ideal é que os vinhos sejam armazenados em uma  umidade próxima a 70% (podendo variar de 60% a 80%
-
 > [!NOTE]
 Pré-requisitos
 > 
 > - Tinkercad para a simulação
-> - 1 Arduino
-> - 3x leds (vermelho, amarelo, verde)
-> - 1 buzzer
-> - 1 fotoresistor
-> - x cabos jumper
+> - Conhecimento básico de arduino
 
 ## Funcionalidades
 
@@ -37,17 +25,26 @@ Pré-requisitos
 
 <img width="476" height="519" alt="image" src="https://github.com/user-attachments/assets/5b410ab7-c34e-4d81-960d-a77ec1acfb79" />
 
-
 ## Hardware - lista de componentes
 
 - 1 Arduino
-- 3x leds (vermelho, amarelo, verde)
+- 3 leds (vermelho, amarelo, verde)
 - 1 buzzer
 - 1 fotoresistor
-- x cabos jumper
+- 10 cabos jumper
+- 5 resistores de 310 ohms 
 
 ## Software:
-
 Arduino IDE, Tinkercad
 
-## Como rodar o projeto
+## Como rodar o projeto no Tinkercad:
+- Copie a estrutura do projeto no simulador
+- Copie o código do respositório dentro do editor de código do Tinkercad
+- Comece a simulação
+
+## Como rodar o projeto na sua máquina:
+- Clone o projeto na sua máquina:
+- ´git clone ´
+- Abra o projeto dentro do Arduino IDE
+- Siga a estrutura do projeto do README
+- Faça o upload do código para a sua placa

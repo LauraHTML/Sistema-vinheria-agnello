@@ -9,6 +9,9 @@ O sistema captura a luminosidade, umidade e temperatura do ambiente para garanti
 ### Luminosidade:
 Os vinhos devem permanecer na penumbra para não afetar a sua qualidade
 
+## Vídeo explicando como o sistema funciona:
+https://youtu.be/f0wtTETWxHo?feature=shared
+
 > [!NOTE]
 > Pré-requisitos
 > - Tinkercad para a simulação
@@ -22,6 +25,9 @@ Os vinhos devem permanecer na penumbra para não afetar a sua qualidade
 ## Estrutura do projeto
 
 <img width="476" height="519" alt="image" src="https://github.com/user-attachments/assets/5b410ab7-c34e-4d81-960d-a77ec1acfb79" />
+
+## Link para simulação do projeto:
+https://www.tinkercad.com/things/eycspBHlP9i-sensor-de-luminosidade?sharecode=DzSfoLtOpKuL4Q3SH4tyTOWgR0TrB1i7qmFrxQWK8l4
 
 ## Hardware - lista de componentes
 

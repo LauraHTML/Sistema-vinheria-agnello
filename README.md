@@ -51,3 +51,9 @@ Arduino IDE, Tinkercad
 - Abra o projeto dentro do Arduino IDE
 - Siga a estrutura do projeto do README
 - Faça o upload do código para a sua placa
+
+## Integrantes
+* Amanda Silva
+* Beatriz Mantovani
+* Gustavo Ducatti
+* Laura Sampaio 
